@@ -85,4 +85,4 @@ function App() {
 
 export default App;
 
-// staleTime is the amount of time the data in the cache will stay fresh
+// staleTime is the amount of time the data in the cache will stay fresh.
